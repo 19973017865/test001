@@ -1,6 +1,7 @@
 /* 
 online
 第2章的编程练习 5
+太难了
  */
 #include<stdio.h>
 #include<stdlib.h>
