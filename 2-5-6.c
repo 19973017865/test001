@@ -1,4 +1,5 @@
 /* 
+online
 第2章的编程练习 6
  */
 #include<stdio.h>
